@@ -1,10 +1,10 @@
-.card-label__container{
+.card-label-container {
 	position: absolute;
 	bottom:90px;
 	right: 0;
 }
 
-.card-label__content{
+.card-label-content {
 	display: flex;
 	align-items: center;
 	justify-content: center;
